@@ -2,8 +2,8 @@
 Estimating crime density in South Africa using SAPS data and 2011 Census data from StatsSA. 
 This is for interest's sake. Please do not use this information to make decisions - it could be incomplete, inaccurate, and/or invalid.
 
-Crime Map: https://trepidationza.github.io/sa_crime_estimation/qgis2web_2023_07_25-06_00_35_289173
-Demographic Map: https://trepidationza.github.io/sa_crime_estimation/qgis2web_2023_07_25-06_43_29_433210
+Crime Map: https://trepidationza.github.io/sa_crime_estimation/qgis2web_2023_07_25-06_00_35_289173 (c.66MB)
+Demographic Map: https://drive.google.com/drive/folders/1sosKPAg8jAmCY1RIR-eeRlxKBjARGVGI?usp=drive_link (c.470MB)
 
 # Crime Density Estimation in South Africa
 
